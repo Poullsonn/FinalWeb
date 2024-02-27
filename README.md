@@ -8,7 +8,7 @@ The Dish Management API provides a set of endpoints for managing dishes in a res
 1. Clone the repository to your local machine:
 
 \`\`\`
-git clone https://github.com/Poullsonn/Assik4-Final.git
+git clone https://github.com/Poullsonn/FinalWeb.git
 \`\`\`
 
 2. Install dependencies:
